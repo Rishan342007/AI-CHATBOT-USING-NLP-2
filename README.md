@@ -31,3 +31,7 @@ The chatbot, named **RishanBot**, is capable of handling basic conversation patt
 This project is a foundational step into the field of conversational AI, helping learners understand how simple rule-based NLP chatbots are structured. While it does not use machine learning or external APIs, it is a strong demonstration of core logic building, pattern matching, and user interaction flow.
 
 In summary, this chatbot reflects the practical application of NLP in creating engaging user experiences and marks a successful completion of Task 3 in the internship.
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/f866fe1b-f81e-4861-be10-07679e52d092)
